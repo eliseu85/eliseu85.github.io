@@ -1,19 +1,24 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
 .topo
-	{
-		height: 100px;
-		width: 100%;
-		background-color: red;
-	}
-	.conteudo
-	{
-		height: 500px;
-		width: 100%;
-		background-color: #fff;
-	}
-	.rodape
-	{
-		height: 100px;
-		width: 100%;
-		background-color: #000;
-		color: #fff;
-	}
+{
+	height: 100px;
+	width: 100%;
+	background-color: red;
+}
+.conteudo
+{
+	height: 500px;
+	width: 100%;
+	background-color: #fff;
+}
+.rodape
+{
+	height: 100px;
+	width: 100%;
+	background-color: #000;
+	color: #fff;
+}
